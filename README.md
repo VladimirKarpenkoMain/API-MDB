@@ -27,7 +27,7 @@ git clone https://github.com/VladimirKarpenkoMain/API-Yatube
 ```
 
 ```
-cd API-Yatube
+cd API-MDB
 ```
 
 Cоздать и активировать виртуальное окружение:
